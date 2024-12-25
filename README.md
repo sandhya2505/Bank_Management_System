@@ -13,7 +13,7 @@ Deposit the money in account
 Delete or close the account
 
 
-#CRUD Operations
+# CRUD Operations
 # 1.Create Opearation:
 ![Screenshot 2024-12-23 130609](https://github.com/user-attachments/assets/798232c3-f6d4-44b6-bbb7-2340a4f5fd5c)
 
